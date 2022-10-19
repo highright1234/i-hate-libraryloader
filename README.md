@@ -5,4 +5,6 @@ i-hate-libraryloader-debug는 실제로 써보는 플러그인
 PapiNode에서 오류나는중   
 아무나 고칠 방법 알려줘요   
 ByteBuddy로 실시간 코드짜는거 말곤 모르겠는   
- 
+
+결국 ByteBuddy로 처리했다.......  
+쓰레기같은놈
